@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🐱‍👤I'm curtently working on some personal projects
-- 🕸 I'm currently learning JavaScript, I'm also improving my htm and css skills
+- I'm curtently working on some personal projects
+- I'm currently learning JavaScript, I'm also improving my htm and css skills
 
 <div>
  <a href="https://www.linkedin.com/in/pedromedeiros1008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
