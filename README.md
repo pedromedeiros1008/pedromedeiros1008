@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - I'm curtently working on some personal projects
-- I'm currently learning JavaScript, I'm also improving my htm and css skills
+- I'm currently learning JavaScript, I'm also improving my HTML and CSS skills
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromedeiros1008&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <div>
  <a href="https://www.linkedin.com/in/pedromedeiros1008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
