@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - I'm curtently working on some personal projects
-- I'm currently learning JavaScript, I'm also improving my HTML and CSS skills
+- I'm currently learning JavaScript
+- I'm also improving my HTML and CSS skills
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromedeiros1008&hide=stars&theme=dark&show_icons=true)](https://github.com/pedromedeiros1008/github-readme-stats)
 
