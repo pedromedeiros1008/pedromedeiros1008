@@ -9,7 +9,7 @@ I'm a web developer student, I'm graduating Analysis and Systems Development, I'
 - I've been imporving my HTML and CSS skills
 
 ### Some random facts about me
-- I speak Portuguese, English and I'm learning French 
+- I speak Portuguese, English, I'm learning French 
 - I'm addicted to coffee
 - I really like reading 
 
