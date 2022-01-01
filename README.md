@@ -11,7 +11,7 @@ even though I'm studying to be a front end developer, my main goal is to become 
 - I've been imporving my HTML and CSS skills
 
 ### Some random facts about me
-- I do like to learn languages, my goal is to be a polyglot 
+- I like to learn languages, my goal is to be a polyglot 
 - I'm addicted to coffee
 - I really like reading 
 
