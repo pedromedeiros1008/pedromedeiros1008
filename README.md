@@ -1,5 +1,5 @@
 <img src="./computer.gif" width="100%"/>
-- 👨🏻‍💻 Hello there, I'm Pedro
+👨🏻‍💻 Hello there, I'm Pedro
 
 <!--
 **pedromedeiros1008/pedromedeiros1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
