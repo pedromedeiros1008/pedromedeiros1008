@@ -4,7 +4,7 @@
 
 ## Who am I?
 <img alt="dev"  width="200em" height="200em" src="./developer.gif" />
-I'm a web developer student, I'm graduating Analysis and Systems Development, I've been working hard to be a great dev, even though I'm currently studying to be a front end developer, my main goal is to become a full stack developer.
+I'm a web developer student, I'm graduating Analysis and Systems Development, I've been studying a lot to be a great developer, even though I'm currently studying to be a front end developer, my main goal is to become a full stack developer.
 <br> <br>
 - I'm currently learning JavaScript <br>
 - I've been imporving my HTML and CSS skills <br>
