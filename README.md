@@ -1,25 +1,20 @@
+# Hello there! I'm Pedro. 👨🏻‍💻
+
 <img src="./computer.gif" width="100%"/>
-# 👨🏻‍💻 Hello there, I'm Pedro
 
-<!--
-**pedromedeiros1008/pedromedeiros1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+I'm a web developer student, I'm graduating 
 
-Here are some ideas to get you started:
+even though I'm studying to be a front end developer, my main goal is to become a full stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently learning JavaScript 
+- I've been imporving my HTML and CSS skills
 
-- I'm curtently working on some personal projects
-- I've been developing my personal Portfolio
-- I'm currently learning JavaScript
-- I'm also improving my HTML and CSS skills
+### Some random facts about me
+- I do like to learn languages, my goal is to be a polyglot 
+- I'm addicted to coffee
+- I really like reading 
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromedeiros1008&hide=stars&theme=dark&show_icons=true)](https://github.com/pedromedeiros1008/github-readme-stats)
