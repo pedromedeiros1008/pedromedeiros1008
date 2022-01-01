@@ -1,5 +1,5 @@
 <img src="./computer.gif" width="100%"/>
-Hello there, I'm Pedro 👋
+Hello there, I'm Pedro👨🏻‍💻
 
 <!--
 **pedromedeiros1008/pedromedeiros1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm curtently working on some personal projects
+- I've been developing my personal Portfolio
 - I'm currently learning JavaScript
 - I'm also improving my HTML and CSS skills
 
