@@ -1,4 +1,4 @@
-# Hello there! I'm Pedro. 👨🏻‍💻
+# Hello there! I'm Pedro 👨🏻‍💻
 
 <img src="./computer.gif" width="100%"/>
 
