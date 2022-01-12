@@ -3,24 +3,18 @@
 <img src="./computer.gif" width="100%"/>
 
 ## Who am I?
-<img alt="dev"  width="200em" height="200em" src="./developer.gif" />
-I'm a web developer student, I've been studying a lot to be a great developer, I'm graduating Analysis and Systems Development
-<br> <br>
+I’m a front end developer student, my major in college is analysis and development systems, I’ve been really focused on my studies to be a great web developer. I’m working on some projects which I’m using html, css, and javascript. I’m also working on my personal portfolio, I think it’s going to be available pretty soon!
+<br>
 - I'm currently learning JavaScript <br>
 - I've been imporving my HTML and CSS skills <br>
--  I'm really intrested on UI Designer
-
-#### Some random facts about me
-- I speak Portuguese, English, I'm learning French 
-- I'm addicted to coffee
-- I really like reading 
-
 
 ## My skills 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  </div>
 
 
