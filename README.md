@@ -12,9 +12,9 @@ I’m a front end developer student, I’ve been really focused on my studies to
 <div>
 <img src="./icons8-html-5.svg">
 <img src="./icons8-css3.svg">
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ <img src="./icons8-javascript.svg">
+ <img src="./icons8-figma.svg">
+ 
  </div>
 
 
