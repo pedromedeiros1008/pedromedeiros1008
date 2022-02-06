@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Pedro 🐱‍👤</h1>
+<h1 align="center">Hello there! I'm Pedro</h1>
 
 <img src="./computer.gif" width="100%"/>
 
