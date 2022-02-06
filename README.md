@@ -3,7 +3,7 @@
 <img src="./computer.gif" width="100%"/>
 
 ## Who am I?
-I’m a front end developer student, I’ve been really focused on my studies to be a great web developer. I’m working on some projects which I’m using html, css, and javascript. I’m also working on my personal portfolio, I think it’s going to be available pretty soon!
+I’m a front end developer student, who is also passionateabout UI Design, I’ve been really focused on my studies to be a great web developer. I’m working on some projects which I’m using html, css, and javascript. I’m also working on my personal portfolio, I think it’s going to be available pretty soon!
 <br>
 - I'm currently learning JavaScript <br>
 - I've been imporving my HTML and CSS skills <br>
