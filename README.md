@@ -6,6 +6,7 @@
 I’m a front end developer student, who is also passionate about UI Design, I’ve been really focused on my studies to be a great web developer. I’m working on some projects which I’m using html, css, and javascript. I’m also working on my personal portfolio, I think it’s going to be available pretty soon!
 
 ## Random facts about me
+<img src="./cat.gif" width="100%"/>
 
 ## My skills 
 <div>
