@@ -36,7 +36,7 @@ I’m a front end developer student, who is also passionate about UI Design, I'm
  ## My GitHub stats
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromedeiros1008&theme=dark&layout=compact)](https://github.com/pedromedeiros1008/github-readme-stats)
  
- <p align="center"> this snake is always hungry lol </p>
+ <p align="center"><strong> this snake is always hungry lol</strong></p>
  
  ![Snake animation](https://github.com/pedromedeiros1008/pedromedeiros1008/blob/output/github-contribution-grid-snake.svg)
   </div>
