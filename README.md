@@ -20,6 +20,13 @@ Iâ€™m a front end developer student, who is also passionate about UI Design, Iâ€
  <img src="./icons8-figma.svg">
 </div>
 
+## Tools
+<div>
+ <img src="./icons8-visual-studio-code-2019.svg">
+  <img src="./icons8-github.svg">
+   <img src="./icons8-git.svg">
+ </div>
+ 
 ## Reach me out
 <div>
  <a href="https://www.linkedin.com/in/pedromedeiros1008" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
